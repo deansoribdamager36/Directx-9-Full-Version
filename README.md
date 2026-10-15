@@ -242,4 +242,4 @@ This repository serves as the official landing page for DirectX 9. The software 
 **Get the most recent version of DirectX 9 today!**
 
 ---
-**Last updated:** 2026-10-15 10:40:57 UTC
+**Last updated:** 2026-10-15 15:26:10 UTC
